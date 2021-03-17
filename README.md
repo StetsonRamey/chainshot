@@ -2,7 +2,7 @@
 
 ## Clone it:
 
-`code to clone`
+`git clone git@github.com:StetsonRamey/chainshot.git`
 
 ## Install the deps
 
